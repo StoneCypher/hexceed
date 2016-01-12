@@ -22,7 +22,28 @@ To fill the eighteen cells of this board, eighteen pieces are provided, shared b
 
 To make 18 pieces, each piece differs in three ways, with ranges 3,3,2.  We will call these "qualities."  The set of pieces is every combination of the three qualities.  
 
-The reference implementation uses three colors [`R`,`G`,`B`] for the piece, three symbols [`X`,`O`,`=`] for the foreground, and two colors [`K`/`W`] of the symbol.  (`K` is the printer's color for `Black`, because `B` is already `Blue`.  That's why it's `CMYK`.)
+The reference implementation uses three colors [`R`,`G`,`B`] for the piece, three symbols [`X`,`O`,`-`] for the foreground, and two colors [`K`/`W`] of the symbol.  (`K` is the printer's color for `Black`, because `B` is already `Blue`.  That's why it's `CMYK`.)
+
+<image src="pieces/rxw.png" width="48"/>
+<image src="pieces/row.png" width="48"/>
+<image src="pieces/rdw.png" width="48"/>
+<image src="pieces/rxk.png" width="48"/>
+<image src="pieces/rok.png" width="48"/>
+<image src="pieces/rdk.png" width="48"/>
+
+<image src="pieces/gxw.png" width="48"/>
+<image src="pieces/gow.png" width="48"/>
+<image src="pieces/gdw.png" width="48"/>
+<image src="pieces/gxk.png" width="48"/>
+<image src="pieces/gok.png" width="48"/>
+<image src="pieces/gdk.png" width="48"/>
+
+<image src="pieces/bxw.png" width="48"/>
+<image src="pieces/bow.png" width="48"/>
+<image src="pieces/bdw.png" width="48"/>
+<image src="pieces/bxk.png" width="48"/>
+<image src="pieces/bok.png" width="48"/>
+<image src="pieces/bdk.png" width="48"/>
 
 (The three representations of difference are unimportant, provided they're easy to read, and different sets may approach this different ways; another might use shape, texture, and base material.  This document will proceed using the reference implementation's choices, for brevity's sake.)
 

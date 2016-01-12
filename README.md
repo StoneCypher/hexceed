@@ -29,15 +29,13 @@ The reference implementation uses three colors [`R`,`G`,`B`] for the piece, thre
 <image src="pieces/rdw.png" width="48"/>
 <image src="pieces/rxk.png" width="48"/>
 <image src="pieces/rok.png" width="48"/>
-<image src="pieces/rdk.png" width="48"/>
-
+<image src="pieces/rdk.png" width="48"/><br/>
 <image src="pieces/gxw.png" width="48"/>
 <image src="pieces/gow.png" width="48"/>
 <image src="pieces/gdw.png" width="48"/>
 <image src="pieces/gxk.png" width="48"/>
 <image src="pieces/gok.png" width="48"/>
-<image src="pieces/gdk.png" width="48"/>
-
+<image src="pieces/gdk.png" width="48"/><br/>
 <image src="pieces/bxw.png" width="48"/>
 <image src="pieces/bow.png" width="48"/>
 <image src="pieces/bdw.png" width="48"/>
